@@ -19,12 +19,12 @@ body {
   @apply max-w-7xl mx-auto px-4 pb-12;
 }
 
-.hero-section {
+/* .hero-section {
   @apply relative h-96 md:h-[500px] bg-gradient-to-r from-blue-800 to-blue-600 rounded-lg mb-12 overflow-hidden;
   background-image: url('');
   background-size: cover;
   background-position: center;
-}
+} */
 
 .hero-content {
   @apply absolute inset-0 flex flex-col justify-center items-center text-center text-white p-6 bg-black bg-opacity-40;
