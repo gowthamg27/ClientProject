@@ -8,7 +8,7 @@ const videos = [
     title: "Annual College Fest Highlights",
     desc: "A glimpse of the amazing performances, cultural events, and student participation in our annual college fest.",
     preview: "/assets/images/img1.jpeg",
-    src: "https://www.youtube.com/embed/v30g1TO5D5c",
+    src: "/assets/videos/science_expo.mp4",
     isYoutube: true,
   },
   {

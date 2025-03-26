@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FaUniversity, FaChalkboardTeacher, FaAtom, FaUserGraduate, FaHistory } from 'react-icons/fa';
+import { FaChalkboardTeacher, FaAtom, FaUserGraduate } from 'react-icons/fa';
 
 
 // Animation Variants
@@ -22,12 +22,7 @@ const cardVariants = {
   visible: { opacity: 1, y: -20, transition: { duration: 0.5 } },
 };
 
-const journeyData = [
-  { title: "Started Internship", desc: "Began as a software intern at XYZ." },
-  { title: "First Job", desc: "Joined ABC Tech as a junior developer." },
-  { title: "Promotion", desc: "Promoted to Senior Developer role." },
-  { title: "New Opportunity", desc: "Started as a Tech Lead at DEF Corp." },
-];
+
 
 
 
